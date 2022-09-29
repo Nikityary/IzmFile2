@@ -1,0 +1,8 @@
+D:\дз 3 курс\FileIzm2\FileIzm2\bin\Debug\FileIzm2.exe.config
+D:\дз 3 курс\FileIzm2\FileIzm2\bin\Debug\FileIzm2.exe
+D:\дз 3 курс\FileIzm2\FileIzm2\bin\Debug\FileIzm2.pdb
+D:\дз 3 курс\FileIzm2\FileIzm2\obj\Debug\FileIzm2.csproj.AssemblyReference.cache
+D:\дз 3 курс\FileIzm2\FileIzm2\obj\Debug\FileIzm2.csproj.SuggestedBindingRedirects.cache
+D:\дз 3 курс\FileIzm2\FileIzm2\obj\Debug\FileIzm2.csproj.CoreCompileInputs.cache
+D:\дз 3 курс\FileIzm2\FileIzm2\obj\Debug\FileIzm2.exe
+D:\дз 3 курс\FileIzm2\FileIzm2\obj\Debug\FileIzm2.pdb
